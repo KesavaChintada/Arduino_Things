@@ -1,0 +1,6 @@
+What this code does is,
+1. Retrivess last saved count value from the EEPROM when reseted/powered on
+2. increments count value every program cycle
+3. stores the present count value in the EEPROM once in every program cycle and loops again.
+
+It prints the count value every cycle in the serial monitor.
