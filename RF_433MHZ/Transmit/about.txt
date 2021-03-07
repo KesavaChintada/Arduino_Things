@@ -1,0 +1,3 @@
+This simple code is for RF transmittter
+the data is sent in UART frames to the tramsmitter module 
+It uses the default UART port what Arduino uses for serial monitor/flash hex
